@@ -1,0 +1,34 @@
+@tailwind base;
+
+@layer base {
+  .test {
+    @apply text-4xl;
+  }
+  .weatherIcon {
+    @apply text-9xl;
+  }
+  .weatherDetailsContainer {
+    @apply w-[50vh]  p-5 mb-2;
+  }
+  .date {
+    @apply text-xl text-white text-center;
+  }
+  .temperature {
+    @apply text-white text-7xl mt-4 mb-4;
+  }
+  .weatherText {
+    @apply text-white mb-2 mt-2 text-xl;
+  }
+  .infoIcon {
+    @apply h-8 mr-4;
+  }
+  .info {
+    @apply flex flex-col justify-center items-center;
+  }
+  .icon {
+    @apply -mt-1;
+  }
+  .weatherLabel {
+    @apply text-xs;
+  }
+}
