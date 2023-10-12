@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/meteo-connect/static/css/main.be0fd43e.css",
+    "main.js": "/meteo-connect/static/js/main.15175e0b.js",
+    "index.html": "/meteo-connect/index.html",
+    "main.be0fd43e.css.map": "/meteo-connect/static/css/main.be0fd43e.css.map",
+    "main.15175e0b.js.map": "/meteo-connect/static/js/main.15175e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be0fd43e.css",
+    "static/js/main.15175e0b.js"
+  ]
+}
